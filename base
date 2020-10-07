@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>П.Н. Янина</author>
+    <publisher>
+      <name>П.Н. Янина</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">belkinvi.xml</idno>
+    <persName>
+      <surname>Белкин</surname>
+      <firstname>Виктор</firstname>
+      <patronym>Исаевич</patronym>
+    </persName>
+    <event type="birth" when="1927">
+      <place>Воронеж</place>
+    </event>
+    <event type="arrest" when="1948">
+      <place>Воронеж</place>
+    </event>
+    <event type="trial" when="1949-05-14"> 
+	#В базе данных Открытого списка 10 мая 1949
+      <p> ст.ст. 58-10 ч. 1, 58-11 УК РСФСР - «…будучи враждебно настроен к советской власти, 
+	  по взаимному сговору, создал антисоветскую организацию в Москве и Воронеже под названием 
+	  «Всесоюзная демократическая партия», которая ставила своей целью свержение существующего строя. 
+	  До дня своего ареста проводил антисоветскую агитацию и обрабатывал в целях вовлечения 
+	  в подпольную организацию других лиц…».</p>
+	</event>
+	</event type="imprisonment">
+	  <place>Речлаг</place>
+    </event>
+    <event type="release" when="1956-03-10">
+    </event>
+	</event type="rehabilitation" when="1989">
+	</event>
+  </person>
+  <biography>
+    <text>студент Института межд. отношений; студент 4-го курса Воронежского университета</text>
+  </biography>
+  <external_sources>
+    <source type="external_database_entry" ref="http://memoirs.memo.ru/memoir/show/id/12">Запись в каталоге мемуалов Мемориала
+	</source>
+    <source type="external_database_entry" ref="https://base.memo.ru/person/show/3076108">Запись в
+      базе Международного Мемориала</source>
+    <source type="external_database_entry" ref="https://ru.openlist.wiki/Белкин_Виктор_Исаевич_(1927)">Запись 
+      в базе Открытого списка</source>
+  </external_sources>
+</biodes>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>П.Н. Янина</author>
+    <publisher>
+      <name>П.Н. Янина</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">bonshteinvs.xml</idno>
+    <persName>
+      <surname>Бронштейн </surname>
+      <firstname>Вера</firstname>
+      <patronym>Самойловна</patronym>
+    </persName>
+    <event type="birth" when="1893">
+		</place>село Ольгаполь Винницкой губернии</place>
+    </event>
+    <event type="arrest" when="1948">
+      <place>Москва</place>
+    </event>
+    <event type="trial" when="1948-09"> 
+	</event>
+	</event type="imprisonment">
+	  <place>Темлаг</place>
+    </event>
+    <event type="release" when="1954">
+    </event>
+	</event type="rehabilitation" when="1955">
+	</event>
+  </person>
+  <biography>
+    <text>Член РСДРП(б) с 1914 года, кандидат исторических наук</text>
+  </biography>
+  <external_sources>
+    <source type="external_database_entry" ref="http://memoirs.memo.ru/memoir/show/id/430">Запись в каталоге мемуалов Мемориала</source>
+    <source type="external_database_entry" ref="https://ru.openlist.wiki/Бронштейн_Вера_Самойловна_(1893)">Запись 
+      в базе Открытого списка</source>
+  </external_sources>
+</biodes>
+
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>П.Н. Янина</author>
+    <publisher>
+      <name>П.Н. Янина</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">brusinaa.xml</idno>
+    <persName>
+      <surname>Брусин</surname>
+      <firstname>Александр</firstname>
+      <patronym>Алексеевич</patronym>
+    </persName>
+    <event type="birth" when="1898">
+      <place>Нижний Новгород</place>
+    </event>
+    <event type="arrest" when="1937">
+      <place>Брянск</place>
+    </event>
+    <event type="trial" when="1938-09-03"> 
+	</event>
+  </person>
+  <biography>
+    <text>член ВКП(б). Место работы: Брянский военный гарнизон, командир полка</text>
+  </biography>
+  <external_sources>
+    <source type="external_database_entry" ref="http://memoirs.memo.ru/memoir/show/id/432">Запись в каталоге мемуалов Мемориала
+	</source>
+    <source type="external_database_entry" ref="https://base.memo.ru/person/show/2725544">Запись в
+      базе Международного Мемориала</source>
+    <source type="external_database_entry" ref="https://ru.openlist.wiki/Брусин_Александр_Алексеевич_(1898)">Запись 
+      в базе Открытого списка</source>
+  </external_sources>
+</biodes>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>П.Н. Янина</author>
+    <publisher>
+      <name>П.Н. Янина</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">bardinang.xml</idno>
+    <persName>
+      <surname>Бардина</surname> #девичья фамилия Остренко
+      <firstname>Нина</firstname>
+      <patronym>Георгиевна</patronym>
+    </persName>
+    <event type="birth" when="1921">
+      <place>Воронеж</place>
+    </event>
+    <event type="arrest" when="1948">
+    </event>
+    <event type="trial" when="1942-07-20">
+      <p> Приговор ВТ 20 июля 1942 г.: «высшая мера» [обвинение не указано], безразличие к происходящему. 
+	  Просьбу о помиловании писать не захотела, из камеры смертников вызвана «с вещами», 
+	  но вместо расстрела изменение приговора: 7 лет лагерей</p>
+	</event>
+	</event type="imprisonment">
+	  <place>Тагиллаг</place>
+    </event>
+    <event type="release" when="1949-05-22">
+    </event>
+  </person>
+  <biography>
+    <text>В 1942 г. студентка третьего курса химфака МГУ; в 1970-е годы преподаватель Московского института цветных металлов</text>
+  </biography>
+  <external_sources>
+    <source type="external_database_entry" ref="http://memoirs.memo.ru/memoir/show/id/2">Запись в каталоге мемуалов Мемориала
+	</source>
+    <source type="external_database_entry" ref="https://ru.openlist.wiki/Остренко_Нина_Георгиевна_(1921)">Запись 
+      в базе Открытого списка под девичьей фамилией Остренко</source>
+  </external_sources>
+</biodes>
